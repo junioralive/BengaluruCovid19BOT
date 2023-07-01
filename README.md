@@ -15,11 +15,12 @@ THIS A BOT MADE USING TELEGRAM API & PYTHON FOR THE PANDEMIC SUPPORT IN BENGALUR
 7. Covaccine (THIS FEATURE WAS UNDER DEVELOPEMENT AND WAS REMOVED)
 
 ## HOW TO USE 
-
-'''git clone the repo
+'''
+git clone the repo
 pip install -r requirments.txt
 UPDATE YOU'R BOT TOKEN
-python main.py'''
+python main.py
+'''
 
 ## DEMO
 
