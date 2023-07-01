@@ -16,10 +16,10 @@ THIS A BOT MADE USING TELEGRAM API & PYTHON FOR THE PANDEMIC SUPPORT IN BENGALUR
 
 ## HOW TO USE 
 
-> git clone the repo
-> pip install -r requirments.txt
-> UPDATE YOU'R BOT TOKEN
-> python main.py
+'''git clone the repo
+pip install -r requirments.txt
+UPDATE YOU'R BOT TOKEN
+python main.py'''
 
 ## DEMO
 
