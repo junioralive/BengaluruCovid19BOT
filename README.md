@@ -26,6 +26,8 @@ THIS A BOT MADE USING TELEGRAM API & PYTHON FOR THE PANDEMIC SUPPORT IN BENGALUR
 
 
 ## DEMO
+![CASES](https://github.com/junioralive/BengaluruCovid19BOT/assets/54473944/0b9a7081-1a78-454e-b719-da298e2d85e2)
+
 
 
 
