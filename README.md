@@ -25,8 +25,11 @@ THIS A BOT MADE USING TELEGRAM API & PYTHON FOR THE PANDEMIC SUPPORT IN BENGALUR
 >python main.py
 
 
-## DEMO
+## DEMO 
 ![CASES](https://github.com/junioralive/BengaluruCovid19BOT/assets/54473944/0b9a7081-1a78-454e-b719-da298e2d85e2)
+
+### VIDEO
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MfaWeE52syA/0.jpg)](https://www.youtube.com/watch?v=aFy24_xeWQQ)
 
 
 
