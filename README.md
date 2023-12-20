@@ -16,17 +16,17 @@ THIS A BOT MADE USING TELEGRAM API & PYTHON FOR THE PANDEMIC SUPPORT IN BENGALUR
 
 ## HOW TO USE 
 
-```
+```clone
 git clone https://github.com/junioralive/BengaluruCovid19BOT.git
 ```
 
-```
+```install
 pip install -r requirments.txt
 ```
 
 >UPDATE YOU'R BOT TOKEN
 
-```
+```main
 python main.py
 ```
 
