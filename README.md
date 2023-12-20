@@ -24,7 +24,7 @@ git clone https://github.com/junioralive/BengaluruCovid19BOT.git
 pip install -r requirments.txt
 ```
 
-###bot_token='PUT YOUR TOKEN HERE'
+>bot_token='PUT YOUR TOKEN HERE'
 
 ```main
 python main.py
